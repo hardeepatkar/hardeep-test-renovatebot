@@ -3,9 +3,9 @@
   "extends": [
     "config:base"
   ],
-  "prHeader": "JamesTestHeader",
+  "prHeader": "HardeepTestHeader",
   "assignees": [
-    "james-willett"
+    "hardeepatkar"
   ],
   "labels": ["dependencies-testlabel"],
   "packageRules": [
